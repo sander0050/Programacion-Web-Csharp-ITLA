@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ejercicio1
+namespace Programacion_Web_CSharp
 {
     public class Empleado : Persona
     {
